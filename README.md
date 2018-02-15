@@ -1,5 +1,5 @@
 # gdc-rnaseq-tool
-Tool to download / merge individual RNASeq files from the [GDC Portal](https://portal.gdc.cancer.gov) into a matrices identified by [TCGA barcode](https://wiki.nci.nih.gov/display/TCGA/TCGA+barcode).
+Tool to download / merge individual RNASeq files from the [GDC Data Portal](https://portal.gdc.cancer.gov) into a matrices identified by [TCGA barcode](https://wiki.nci.nih.gov/display/TCGA/TCGA+barcode).
 
 ![Image](https://raw.githubusercontent.com/cpreid2/gdc-rnaseq-tool/master/Images/TCGA%20Barcode.png)
 
